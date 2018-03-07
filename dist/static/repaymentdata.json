@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "message": "成功",
+  "list": [
+    {
+      "money": "81,000.00",
+      "type": "每月应还(元)",
+      "timer": "2017-12-12",
+      "month": "3个月",
+      "totalamount": "3,000.00",
+      "repayment": "招商银行(8888)",
+      "router": "plan",
+      "content": [
+        {
+          "album_name": "借款年利率",
+          "album_text": "6%"
+        },
+        {
+          "album_name": "还款方式",
+          "album_text": "等额本息"
+        },
+        {
+          "album_name": "待还本息",
+          "album_text": "337.22"
+        },
+        {
+          "album_name": "待还贷后管理费",
+          "album_text": "10.00"
+        },
+        {
+          "album_name": "待还罚息+逾期管理费",
+          "album_text": "0.00"
+        },
+        {
+          "album_name": "礼券优惠",
+          "album_text": "100.00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "message": "成功",
+  "list": [
+    {
+      "surplus": "1700.00",
+      "totalamount": "3,000.00",
+      "content": [
+        {
+          "album_name": "1/3期",
+          "album_num": "2002.01",
+          "album_time": "2017-6-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "2/3期",
+          "album_num": "2008.01",
+          "album_time": "2017-6-10",
+          "album_state": "逾期",
+          "album_attribute": false
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        },
+        {
+          "album_name": "3/3期",
+          "album_num": "2012.01",
+          "album_time": "2017-7-10",
+          "album_state": "已还",
+          "album_attribute": true
+        }
+      ]
+    }
+  ]
+}

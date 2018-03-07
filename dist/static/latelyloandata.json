@@ -1,0 +1,65 @@
+{
+  "code": 0,
+  "message": "成功",
+  "list": [
+    {
+      "productname": "嘉卡贷",
+      "money": "30,000.00",
+      "monthall": "12个月",
+      "timer": "11:16",
+      "month": "10-24",
+      "repayment": "招商银行(8888)",
+      "arrival": "工商银行(6666)",
+      "content": [
+        {
+          "album_year": "2017-12-01",
+          "album_timer": "17:08:12",
+          "album_name": "放弃借款",
+          "album_text": ""
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        },
+        {
+          "album_year": "2019-12-01",
+          "album_timer": "16:08:12",
+          "album_name": "借款已提交",
+          "album_text": "您的借款已提交至自动化审批系统，我们会尽快完成审核并通知您审批结果"
+        }
+      ]
+    }
+  ]
+}

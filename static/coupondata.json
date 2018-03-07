@@ -1,0 +1,32 @@
+{
+  "code": 0,
+  "message": "成功",
+  "list": [
+    {
+      "type": "还款抵用券",
+      "totalamount": "100",
+      "time": "2016-11-11",
+      "attribute": true,
+      "state": 0
+    },
+    {
+      "type": "5期还款免息券",
+      "time": "2016-11-11",
+      "attribute": false,
+      "state": 1
+    },
+    {
+      "type": "还款抵扣券",
+      "totalamount": "200",
+      "time": "2016-11-11",
+      "attribute": true,
+      "state": 2
+    },
+    {
+      "type": "5期还款免息券",
+      "time": "2016-11-11",
+      "attribute": false,
+      "state": 3
+    }
+  ]
+}
