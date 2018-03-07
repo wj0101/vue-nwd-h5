@@ -126,7 +126,7 @@
         this.showDistrict = true
       },
       getCityData () {
-        this.$ajax.get('/static/citydata.json?t=' + (new Date()).getTime().toString()).then((response) => {
+        this.$ajax.get('static/citydata.json?t=' + (new Date()).getTime().toString()).then((response) => {
           this.info = response.data.list
         }).catch((error) => {
           console.log(error)
